@@ -1,0 +1,8 @@
+{
+  "/VirtualRadar/*": {
+    "target": "https://public-api.adsbexchange.com",
+    "secure": false,
+    "logLevel": "debug",
+    "changeOrigin": true
+  }
+}
